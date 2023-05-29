@@ -1,0 +1,112 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+aside {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #09b4f8;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.brand {
+    width: 80px;
+}
+
+.user {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+main {
+    margin-left: 210px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    padding: 10px 20px;
+    margin: 5px 0 5px 0;
+    display: block;
+    color: #000000;
+}
+
+nav a:hover {
+    background-color: #ebe0e6;
+}
+
+nav .icon {
+    width: 25px;
+    float: left;
+    padding-right: 10px;
+}
+
+.info {
+    background-color: #f3e4e8;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+table {
+    margin: 15px 0;
+    border: 1px solid #0e626d;
+    border-collapse: collapse;
+    width: 75%;
+}
+
+table th {
+    border: 1px solid #ad0303;
+    padding: 8px;
+    background-color: #26e00d;
+}
+
+table td {
+    border: 1px solid #d49d06;
+    padding: 8px;
+}
+
+.btn {
+    background-color: #e71bb4d5;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color: #fa7218;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    padding: 20px 0 20px 10px;
+    background-color: #4008dab9;
+    width: 100%;
+    border-top: 1px solid #d8dadf;
+}
+
+
+article {
+    background-image: url('../img/bunga.JPG');
+    height: 600px;
+}
+
+table {
+    background-color: #d8dadf;
+}

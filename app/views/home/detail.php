@@ -1,0 +1,1 @@
+<?php echo $data['row_detail'];
